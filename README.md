@@ -5,7 +5,7 @@
 
 Este repositorio documenta mi trabajo en el análisis y procesamiento de datos institucionales a gran escala, basado en mi experiencia técnica en el sector salud (IMSS). El objetivo es demostrar la capacidad de transformar bases de datos complejas en reportes estratégicos para la toma de decisiones a nivel nacional.
 
-Nota de Confidencialidad y Ética de Datos: Los scripts contenidos en este repositorio han sido sometidos a un proceso de anonimización y limpieza. Se han modificado los nombres de tablas, variables y registros para proteger la integridad y privacidad de la estructura institucional original, manteniendo intacta la lógica de programación, la complejidad de las consultas y la arquitectura de datos.
+**Nota de Confidencialidad y Ética de Datos:** Los scripts contenidos en este repositorio han sido sometidos a un proceso de anonimización y limpieza. Se han modificado los nombres de tablas, variables y registros para proteger la integridad y privacidad de la estructura institucional original, manteniendo intacta la lógica de programación, la complejidad de las consultas y la arquitectura de datos.
 
 ---
 
